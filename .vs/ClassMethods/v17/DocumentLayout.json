@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\classmethods\\classmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\classmethods\\classmethods\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\classmethods\\classmethods\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8938A68F-98FE-4D85-B47E-3BB8CF822D43}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\Book.cs",
+              "RelativeDocumentMoniker": "ClassMethods\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\Book.cs",
+              "RelativeToolTip": "ClassMethods\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:16:33.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "ClassMethods\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\BookLibrary.cs",
+              "RelativeToolTip": "ClassMethods\\BookLibrary.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:44:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ClassMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\ClassMethods\\ClassMethods\\Program.cs",
+              "RelativeToolTip": "ClassMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:10:19.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
